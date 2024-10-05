@@ -119,6 +119,7 @@ func _physics_process(delta):
 
 
 func _on_hitbox_area_entered(area):
+	print(area.name)
 	if area.name == "Hurtbox" and !dead: 
 		print("Hurt")
 		hurt = true

@@ -125,7 +125,3 @@ func block():
 		attack = false
 		blocking = false
 		
-
-
-
-

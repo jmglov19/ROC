@@ -461,6 +461,18 @@ tracks/1/keys = {
 "update": 1,
 "values": [0, 1, 2, 3]
 }
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath(".:collision_layer")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
+}
 
 [sub_resource type="Animation" id="Animation_f41g6"]
 resource_name = "Hurt"
@@ -604,6 +616,18 @@ tracks/6/keys = {
 "transitions": PackedFloat32Array(1),
 "update": 1,
 "values": [&"Run"]
+}
+tracks/7/type = "value"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath(".:collision_layer")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [1]
 }
 
 [sub_resource type="Animation" id="Animation_rwgya"]
@@ -756,7 +780,6 @@ _data = {
 size = Vector2(22, 48)
 
 [node name="Knight" type="CharacterBody2D"]
-collision_layer = 0
 script = ExtResource("1_ybg5e")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
@@ -768,7 +791,6 @@ position = Vector2(0, -48)
 sprite_frames = SubResource("SpriteFrames_4fjn7")
 animation = &"Run"
 autoplay = "Idle"
-frame = 1
 metadata/_edit_lock_ = true
 
 [node name="PlayerDetection" type="Area2D" parent="."]
@@ -790,7 +812,6 @@ position = Vector2(-3, -24)
 shape = SubResource("RectangleShape2D_kr8kv")
 
 [node name="Hurtbox" type="Area2D" parent="."]
-visible = false
 collision_layer = 2
 collision_mask = 0
 
@@ -800,6 +821,7 @@ shape = SubResource("RectangleShape2D_35y5w")
 disabled = true
 
 [node name="Swing" type="Area2D" parent="."]
+visible = false
 position = Vector2(11, 0)
 collision_layer = 4
 collision_mask = 4
@@ -809,12 +831,13 @@ position = Vector2(12.5, -24)
 shape = SubResource("RectangleShape2D_s1gxp")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
-autoplay = "Idle"
 libraries = {
 "": SubResource("AnimationLibrary_xjt4m")
 }
+autoplay = "Idle"
 
 [node name="Shield" type="Area2D" parent="."]
+visible = false
 collision_layer = 2
 collision_mask = 2
 

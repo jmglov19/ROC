@@ -935,7 +935,6 @@ position = Vector2(0, -48)
 sprite_frames = SubResource("SpriteFrames_p780r")
 animation = &"Death"
 autoplay = "Idle"
-frame = 1
 metadata/_edit_lock_ = true
 
 [node name="SwordHit" type="Area2D" parent="AnimatedSprite2D"]
@@ -953,10 +952,10 @@ zoom = Vector2(2.5, 2.5)
 limit_left = 0
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
-autoplay = "Idle"
 libraries = {
 "": SubResource("AnimationLibrary_cte5y")
 }
+autoplay = "Idle"
 
 [node name="Marker2D" type="Marker2D" parent="."]
 position = Vector2(51, -25)
