@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://crrm4xnvrmyv3"
+path="res://.godot/imported/dark-happy-world.ogg-09121fe266bce5e984a8347733c6618d.oggvorbisstr"
+
+[deps]
+
+source_file="res://untitled folder/Music by Ansimuz/dark-happy-world.ogg"
+dest_files=["res://.godot/imported/dark-happy-world.ogg-09121fe266bce5e984a8347733c6618d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

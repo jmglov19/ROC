@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dfroyt45iu05j"
+path="res://.godot/imported/under the rainbow.ogg-699f2f9ab450f5a039f0ae6c530b3aea.oggvorbisstr"
+
+[deps]
+
+source_file="res://untitled folder/Music by Ansimuz/under the rainbow.ogg"
+dest_files=["res://.godot/imported/under the rainbow.ogg-699f2f9ab450f5a039f0ae6c530b3aea.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

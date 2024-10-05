@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://coccddohf0mm1"
+path="res://.godot/imported/summer nights.ogg-3c5341aa9048e2524471d223268d49cd.oggvorbisstr"
+
+[deps]
+
+source_file="res://untitled folder/Music by Ansimuz/summer nights.ogg"
+dest_files=["res://.godot/imported/summer nights.ogg-3c5341aa9048e2524471d223268d49cd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

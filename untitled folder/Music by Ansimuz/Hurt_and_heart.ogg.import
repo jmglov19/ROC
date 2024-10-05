@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cjb5vrvnqxx7n"
+path="res://.godot/imported/Hurt_and_heart.ogg-65e7adf00710deab37ce6fc460fc862e.oggvorbisstr"
+
+[deps]
+
+source_file="res://untitled folder/Music by Ansimuz/Hurt_and_heart.ogg"
+dest_files=["res://.godot/imported/Hurt_and_heart.ogg-65e7adf00710deab37ce6fc460fc862e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

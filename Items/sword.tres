@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="WeaponData" load_steps=3 format=3 uid="uid://k0d1k1icq7bg"]
+
+[ext_resource type="Script" path="res://Items/Scripts/weapon_data.gd" id="1_nx21j"]
+[ext_resource type="Texture2D" uid="uid://q6y70mmhcm88" path="res://Items/Sprites/sword.png" id="2_rh5yb"]
+
+[resource]
+script = ExtResource("1_nx21j")
+damage = 0
+name = "Sword"
+description = "A sharp weapon meant for slahing"
+texture = ExtResource("2_rh5yb")
