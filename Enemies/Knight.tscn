@@ -791,6 +791,7 @@ position = Vector2(0, -48)
 sprite_frames = SubResource("SpriteFrames_4fjn7")
 animation = &"Run"
 autoplay = "Idle"
+frame = 1
 metadata/_edit_lock_ = true
 
 [node name="PlayerDetection" type="Area2D" parent="."]

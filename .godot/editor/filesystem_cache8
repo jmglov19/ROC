@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728157602
+::res://::1728179800
 arrow.gd::GDScript::-1::1728155669::0::1::::<>CharacterBody2D<>::
 arrow.tscn::PackedScene::7716248818126434285::1728155669::0::1::::<><>::res://arrow.gd<>uid://0jxgxxaii5di::::res://warriorpack/Warrior_1/Arrow.png
 BG.gd::GDScript::-1::1728155669::0::1::::<>ParallaxBackground<>::
@@ -7,11 +7,11 @@ bg.tscn::PackedScene::2673139921165823468::1728155669::0::1::::<><>::res://BG.gd
 icon.svg::CompressedTexture2D::6985201194294387822::1728155669::1728155737::1::::<><>::
 items.tscn::PackedScene::6285641880895582632::1728155669::0::1::::<><>::
 main.gd::GDScript::-1::1728155669::0::1::::<>Node2D<>::
-main.tscn::PackedScene::4281178114999715627::1728157527::0::1::::<><>::res://main.gd<>uid://bec5hu5f0k2aa::::res://bg.tscn
+main.tscn::PackedScene::4281178114999715627::1728158346::0::1::::<><>::res://main.gd<>uid://bec5hu5f0k2aa::::res://bg.tscn
 Mountain Background.png::CompressedTexture2D::1117707544676235988::1728155669::1728155740::1::::<><>::
 Projectiles.gd::GDScript::-1::1728155669::0::1::::<>Node2D<>::
 world.gd::GDScript::-1::1728155670::0::1::::<>Node2D<>::
-world.tscn::PackedScene::6798594373861358884::1728157528::0::1::::<><>::uid://c5gim5x4e5y0j::::res://craftpix-net-800370-free-nature-backgrounds-pixel-art/nature_5/origbig.png<>res://world.gd<>uid://ow1nfxl6jkk5::::res://craftpix-net-352322-nature-pixel-art-environment-free-assets-pack/Nature_environment_01.png<>uid://d2qpgag3hbit::::res://Player/Player.tscn<>uid://bx4iij1nogjjp::::res://Enemies/Knight.tscn<>res://Enemies/Enemies.gd<>uid://c8k7e24ip26gn::::res://Enemies/Spearman.tscn<>res://Projectiles.gd
+world.tscn::PackedScene::6798594373861358884::1728158346::0::1::::<><>::uid://c5gim5x4e5y0j::::res://craftpix-net-800370-free-nature-backgrounds-pixel-art/nature_5/origbig.png<>res://world.gd<>uid://ow1nfxl6jkk5::::res://craftpix-net-352322-nature-pixel-art-environment-free-assets-pack/Nature_environment_01.png<>uid://d2qpgag3hbit::::res://Player/Player.tscn<>uid://bx4iij1nogjjp::::res://Enemies/Knight.tscn<>res://Enemies/Enemies.gd<>uid://c8k7e24ip26gn::::res://Enemies/Spearman.tscn<>res://Projectiles.gd
 ::res://craftpix-net-352322-nature-pixel-art-environment-free-assets-pack/::1728155738
 License.txt::TextFile::-1::1728155669::0::1::::<><>::
 Nature_environment_01.png::CompressedTexture2D::1029662277343294194::1728155669::1728155738::1::::<><>::
@@ -248,12 +248,12 @@ origbig.png::CompressedTexture2D::4352298903470749442::1728155669::1728155737::1
 orig.png::CompressedTexture2D::705412150040544922::1728155669::1728155737::1::::<><>::
 origbig.png::CompressedTexture2D::998565442858258611::1728155669::1728155737::1::::<><>::
 ::res://craftpix-net-800370-free-nature-backgrounds-pixel-art/PSD/::1728155669
-::res://Enemies/::1728157528
+::res://Enemies/::1728158346
 Enemies.gd::GDScript::-1::1728156438::0::1::::<>Node2D<>::
 Knight.gd::GDScript::-1::1728156438::0::1::::<>CharacterBody2D<>::
-Knight.tscn::PackedScene::4061131578013632149::1728157528::0::1::::<><>::uid://bpfg1mwtfi8p7::::res://warriorpack/Warrior_2/Idle.png<>res://Enemies/Knight.gd<>uid://ytx2ototql74::::res://warriorpack/Warrior_2/Attack_1.png<>uid://cjpw4j62dmwjk::::res://warriorpack/Warrior_2/Dead.png<>uid://8mnt304o5m3x::::res://warriorpack/Warrior_2/Attack_2.png<>uid://bbyr3ol5at5hw::::res://warriorpack/Warrior_2/Hurt.png<>uid://d4gpi2wg1eu86::::res://warriorpack/Warrior_2/Protect.png<>uid://r8fb4twrybtw::::res://warriorpack/Warrior_2/Walk.png<>uid://d4kv6o634v5q1::::res://warriorpack/Warrior_2/Run+Attack.png<>uid://cr3a6vqe0od1k::::res://warriorpack/Warrior_2/Run.png
+Knight.tscn::PackedScene::4061131578013632149::1728158346::0::1::::<><>::uid://bpfg1mwtfi8p7::::res://warriorpack/Warrior_2/Idle.png<>res://Enemies/Knight.gd<>uid://ytx2ototql74::::res://warriorpack/Warrior_2/Attack_1.png<>uid://cjpw4j62dmwjk::::res://warriorpack/Warrior_2/Dead.png<>uid://8mnt304o5m3x::::res://warriorpack/Warrior_2/Attack_2.png<>uid://bbyr3ol5at5hw::::res://warriorpack/Warrior_2/Hurt.png<>uid://d4gpi2wg1eu86::::res://warriorpack/Warrior_2/Protect.png<>uid://r8fb4twrybtw::::res://warriorpack/Warrior_2/Walk.png<>uid://d4kv6o634v5q1::::res://warriorpack/Warrior_2/Run+Attack.png<>uid://cr3a6vqe0od1k::::res://warriorpack/Warrior_2/Run.png
 Spearman.gd::GDScript::-1::1728155669::0::1::::<>CharacterBody2D<>::
-Spearman.tscn::PackedScene::7111668535240422621::1728157527::0::1::::<><>::res://Enemies/Spearman.gd<>uid://ihaoufi683ok::::res://warriorpack/Warrior_3/Attack_1.png<>uid://dvsjo6tckrbgg::::res://warriorpack/Warrior_3/Attack_2.png<>uid://bprdkk6arkxh2::::res://warriorpack/Warrior_3/Protect.png<>uid://bol8gocqsso47::::res://warriorpack/Warrior_3/Dead.png<>uid://ck8i8elhamufb::::res://warriorpack/Warrior_3/Hurt.png<>uid://blsn5bx87e4ed::::res://warriorpack/Warrior_3/Idle.png<>uid://n4ydu63tohtt::::res://warriorpack/Warrior_3/Run.png<>uid://bhutkvrapmlm2::::res://warriorpack/Warrior_3/Run+Attack.png<>uid://cx7yx3ik1n17i::::res://warriorpack/Warrior_3/Walk.png
+Spearman.tscn::PackedScene::7111668535240422621::1728158346::0::1::::<><>::res://Enemies/Spearman.gd<>uid://ihaoufi683ok::::res://warriorpack/Warrior_3/Attack_1.png<>uid://dvsjo6tckrbgg::::res://warriorpack/Warrior_3/Attack_2.png<>uid://bprdkk6arkxh2::::res://warriorpack/Warrior_3/Protect.png<>uid://bol8gocqsso47::::res://warriorpack/Warrior_3/Dead.png<>uid://ck8i8elhamufb::::res://warriorpack/Warrior_3/Hurt.png<>uid://blsn5bx87e4ed::::res://warriorpack/Warrior_3/Idle.png<>uid://n4ydu63tohtt::::res://warriorpack/Warrior_3/Run.png<>uid://bhutkvrapmlm2::::res://warriorpack/Warrior_3/Run+Attack.png<>uid://cx7yx3ik1n17i::::res://warriorpack/Warrior_3/Walk.png
 ::res://Enemies/scripts/::1728155669
 drop_data.gd::GDScript::-1::1728155669::0::1::::drop_data<>Resource<>::
 ::res://GUI/::1728155669
@@ -274,9 +274,9 @@ item_data.gd::GDScript::-1::1728155669::0::1::::ItemData<>Resource<>::
 weapon_data.gd::GDScript::-1::1728155669::0::1::::WeaponData<>Resource<>::
 ::res://Items/Sprites/::1728155737
 sword.png::CompressedTexture2D::1188532893991802675::1728155669::1728155737::1::::<><>::
-::res://Player/::1728157528
+::res://Player/::1728158346
 Player.gd::GDScript::-1::1728157278::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::267303304516955359::1728157528::0::1::::<><>::res://Player/Player.gd<>uid://bnai23xfls0md::::res://warriorpack/Warrior_1/Attack_1.png<>uid://dgvypaicbiwqt::::res://warriorpack/Warrior_1/Idle.png<>uid://ck2lq3rduedsr::::res://warriorpack/Warrior_1/Run.png<>uid://c1ffb8ctra5lm::::res://warriorpack/Warrior_1/Attack_2.png<>uid://cg15gf6fpaolr::::res://warriorpack/Warrior_1/Jump.png<>uid://chsw447fl8wd::::res://warriorpack/Warrior_1/Hurt.png<>uid://cvu3v3tq0ygqs::::res://warriorpack/Warrior_1/Dead.png<>uid://c7rnn5d804aiq::::res://warriorpack/Warrior_1/Run+Attack.png<>uid://4r06qacv28b0::::res://warriorpack/Warrior_1/Walk.png<>uid://3g1sqf5ov65j::::res://warriorpack/Warrior_1/Shoot.png
+Player.tscn::PackedScene::267303304516955359::1728158346::0::1::::<><>::res://Player/Player.gd<>uid://bnai23xfls0md::::res://warriorpack/Warrior_1/Attack_1.png<>uid://dgvypaicbiwqt::::res://warriorpack/Warrior_1/Idle.png<>uid://ck2lq3rduedsr::::res://warriorpack/Warrior_1/Run.png<>uid://c1ffb8ctra5lm::::res://warriorpack/Warrior_1/Attack_2.png<>uid://cg15gf6fpaolr::::res://warriorpack/Warrior_1/Jump.png<>uid://chsw447fl8wd::::res://warriorpack/Warrior_1/Hurt.png<>uid://cvu3v3tq0ygqs::::res://warriorpack/Warrior_1/Dead.png<>uid://c7rnn5d804aiq::::res://warriorpack/Warrior_1/Run+Attack.png<>uid://4r06qacv28b0::::res://warriorpack/Warrior_1/Walk.png<>uid://3g1sqf5ov65j::::res://warriorpack/Warrior_1/Shoot.png
 Projectiles.gd::GDScript::-1::1728155669::0::1::::<>Node2D<>::
 ::res://sunny-land/::1728155669
 ::res://sunny-land/assets/::1728155669

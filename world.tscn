@@ -1848,18 +1848,29 @@ layer_0/tile_data = PackedInt32Array(2359296, 1507328, 13, 2359297, 1572864, 13,
 [node name="Player" type="Node2D" parent="."]
 
 [node name="Player" parent="Player" instance=ExtResource("3_x2x8i")]
-position = Vector2(602, 561)
+position = Vector2(601, 576)
 
 [node name="Enemies" type="Node2D" parent="."]
 script = ExtResource("5_5dlk6")
 
 [node name="Knight" parent="Enemies" instance=ExtResource("4_tsdaq")]
-position = Vector2(2227, 494)
-collision_layer = 1
+position = Vector2(2215, 490)
 
 [node name="Spearman" parent="Enemies" instance=ExtResource("7_0rj2o")]
 position = Vector2(91, 573)
-collision_layer = 1
+
+[node name="Spearman3" parent="Enemies" instance=ExtResource("7_0rj2o")]
+position = Vector2(328, 576)
+scale = Vector2(0.752766, 0.657651)
+
+[node name="Knight2" parent="Enemies" instance=ExtResource("4_tsdaq")]
+position = Vector2(1560, 592)
+
+[node name="Knight3" parent="Enemies" instance=ExtResource("4_tsdaq")]
+position = Vector2(1751, 585)
+
+[node name="Spearman2" parent="Enemies" instance=ExtResource("7_0rj2o")]
+position = Vector2(198, 575)
 
 [node name="Projectiles" type="Node2D" parent="."]
 script = ExtResource("7_nsn6d")

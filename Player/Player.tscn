@@ -935,6 +935,7 @@ position = Vector2(0, -48)
 sprite_frames = SubResource("SpriteFrames_p780r")
 animation = &"Death"
 autoplay = "Idle"
+frame = 1
 metadata/_edit_lock_ = true
 
 [node name="SwordHit" type="Area2D" parent="AnimatedSprite2D"]
